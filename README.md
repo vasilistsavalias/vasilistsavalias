@@ -17,7 +17,7 @@
 
 
 
-### Programming Languages/Scripting languages:
+### Programming/Scripting languages:
 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
