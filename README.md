@@ -12,7 +12,7 @@
 ●⚡ Fun fact: this document is a creation of a totally original and authentic idea and surely not a blatant copy of the first youtube video that I saw after typing "how to make your github profile look good" 
 
 ### Connect with me:
-<a href="www.linkedin.com/in/vasilis-tsavalias-447b08216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vasilistsavalias/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/vasilis-tsavalias-447b08216"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 
 
