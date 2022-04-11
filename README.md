@@ -1,7 +1,7 @@
 ### *I’m currently procrastinating creating this.*
 
 
-●🎓I'm studying Applied Informatics, Computer Science and Technology. 
+●🎓I'm studying "Applied Informatics, Computer Science and Technology". 
 
 ●🔐I'm interested in Web development, Mobile development, Algorithms and Data science.
 
@@ -58,10 +58,7 @@
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <img  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg' alt="android" width="40" height="40"/> </a>
-  <img  src ='https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/20/91/76/2091769d-32c3-c277-a44c-3a848e1bec0c/electron.png/1200x630bb.png' alt=electron width="40" height="40"/> </a>
   <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg' alt= "Wordpress" width="40" height="40"/> </a>
-  <img  src ='https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg' alt= "SAP" width="40" height="40"/></a>
-  <img  src ='https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website-300x300.jpg' alt="Tableau" width="40" height="40"/> </a>
   <img  src ='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png' alt="Vscode" 
   width="40" height="40" /></a>
 
@@ -69,6 +66,9 @@
 <p>
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+    <img  src ='https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg' alt= "SAP" width="40" height="40"/></a>
+    <img  src ='https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website-300x300.jpg' alt="Tableau" width="40" height="40"/> </a>
+    <img  src ='https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/20/91/76/2091769d-32c3-c277-a44c-3a848e1bec0c/electron.png/1200x630bb.png' alt="slack" width="40" height="40"/> </a>
     
           
 
