@@ -1,15 +1,21 @@
-### I’m currently procrastinating creating this.
+### *I’m currently procrastinating creating this.*
 
 
 ●🎓I'm studying Applied Informatics, Computer Science and Technology. 
 
 ●🔐I'm interested in Web development, Mobile development, Algorithms and Data science.
 
-●👯 I’m looking to collaborate on ground-breaking ,jaw-dropping ,billin-dollar projects that I'm sure no one else have thought of this before.
+●👯 I’m looking to collaborate on ground-breaking ,jaw-dropping ,billion-dollar projects that I'm sure no one else have thought of this before.
 
-●💬 Ask me about anything. I'll google it beforehand and probably forget to reply .
+●💬 Ask me about anything. I'll google it beforehand and probably forget to reply.
 
-●⚡ Fun fact: this document is a creation of a totally original and authentic idea and surely not a blatant copy of the first youtube video that I saw after typing "how to make your github profile look good" (and totally not cringe)
+●⚡ Fun fact: this document is a creation of a totally original and authentic idea and surely not a blatant copy of the first youtube video that I saw after typing "how to make your github profile look good" 
+
+<h3 align="left">Connect with me:</h3> 
+<p align="left">
+<a href="www.linkedin.com/in/vasilistsavalias/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vasilistsavalias/" height="30" width="40" /></a>
+</p>
+
 
 
 ### 👨‍💻 Subject Modules
@@ -55,11 +61,6 @@ Other:   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
           
 
-
-<h3 align="left">Connect with me:</h3> 
-<p align="left">
-<a href="www.linkedin.com/in/vasilistsavalias/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vasilistsavalias/" height="30" width="40" /></a>
-</p>
 
 
 
