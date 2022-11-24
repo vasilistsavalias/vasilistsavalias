@@ -1,8 +1,8 @@
 ### *I’m currently procrastinating creating this.*
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" height="200px"/>
- />
+  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" height="200px"/>
+ 
 </div>
 
 <div id="badges" align="center">
