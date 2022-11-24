@@ -22,9 +22,7 @@
 
 ●⚡ Fun fact: this document is a creation of a totally original and authentic idea and surely not a blatant copy of the first youtube video that I saw after typing "how to make your github profile look good". 
 
-###🌐Connect with me:
-<a href="https://linkedin.com/in/vasilistsavalias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasilistsavalias" height="30" width="40" /></a>
-</p>
+
 
 
 
