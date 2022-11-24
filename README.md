@@ -8,13 +8,6 @@
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/vasilistsavalias" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/liasofianopoulou/">
-    <img src="https://www.kindpng.com/picc/m/20-203618_facebook-logo-red-transparent-facebook-logo-png-white.png" width="50px" height="50px"/>
-  </a>
-  <a href="https://twitter.com/soflia77?t=2aILWPCGgz7RRpK9nwzEiw&s=09">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 
