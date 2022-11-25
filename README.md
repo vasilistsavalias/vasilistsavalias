@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47r19ws2l1urrtj0we044w3w0ssl3zihfiknj5e85c&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47r19ws2l1urrtj0we044w3w0ssl3zihfiknj5e85c&rid=giphy.gif&ct=g" align="center" style="width=600px" />
 </div>  
   
 
-### *🎓I'm attending "Applied Informatics,Computer Science and Technology" in University of Macedonia*  
+### *🎓I study Applied Informatics,Computer Science and Technology at University of Macedonia*  
   
 
 - ●🌱 I’m currently studying core concepts of  data engineering 
