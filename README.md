@@ -6,10 +6,10 @@
 ### *🎓I study Applied Informatics,Computer Science and Technology at University of Macedonia*  
   
 
-- ●🌱 I’m currently studying core concepts of  data engineering 
+- ●🌱 I’m currently studying core concepts of  data engineering ,  mathematical programming and mobile development
   
 
-- ●🔐I'm interested in  Data analytics , blockchain technology and algorithmic design   
+- ●🔐I'm interested in  Data analytics ,operations research , algorithms and back end development.
   
 
 - ●👯 I’m looking to collaborate on ground-breaking ,jaw-dropping ,billion-dollar projects that I'm sure no one else have thought of this before  
