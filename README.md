@@ -9,7 +9,7 @@
 - ●🌱 I’m currently studying core concepts of  data engineering ,  mathematical programming and mobile development
   
 
-- ●🔐I'm interested in  Data analytics ,operations research , algorithms and back end development.
+- ●🔐I'm interested in  machine learning ,operations research , algorithms and back end development.
   
 
 - ●👯 I’m looking to collaborate on ground-breaking ,jaw-dropping ,billion-dollar projects that I'm sure no one else have thought of this before  
