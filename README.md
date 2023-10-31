@@ -6,16 +6,16 @@
 ### *🎓I study Applied Informatics,Computer Science and Technology at University of Macedonia*  
   
 
-- ●🌱 I’m currently studying core concepts of  data engineering ,  mathematical programming and mobile development
+ ●🌱 I’m currently studying core concepts of  data engineering ,  mathematical programming and mobile development
   
 
-- ●🔐I'm interested in  machine learning ,operations research , algorithms and back end development.
+ ●🔐I'm interested in  machine learning ,operations research , algorithms and back end development.
   
 
-- ●👯 I’m looking to collaborate on ground-breaking ,jaw-dropping ,billion-dollar projects that I'm sure no one else have thought of this before  
+ ●👯 I’m looking to collaborate on ground-breaking ,jaw-dropping ,billion-dollar projects that I'm sure no one else have thought of this before  
   
 
-- ●⚡ Fun fact: this document is a creation of a totally original and authentic idea and surely not a blatant copy of the first youtube video that I saw after typing "how to make your github profile look good"  
+ ●⚡ Fun fact: this document is a creation of a totally original and authentic idea and surely not a blatant copy of the first youtube video that I saw after typing "how to make your github profile look good"  
   
 
 <br/>  
