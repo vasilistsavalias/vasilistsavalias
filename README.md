@@ -3,21 +3,18 @@
 </div>  
   
 
-### *🎓I study Applied Informatics,Computer Science and Technology at University of Macedonia*  
+### 👋*Hi there! I'm a passionate student in Applied Informatics, Computer Science, and Technology at the University of Macedonia. *
+
+🎓 Currently, I'm diving deep into the core concepts of data engineering, mathematical programming, operations research  and deep learning.
+
+🎵 My interests include guitar playing, songwriting, fantasy storytelling, and marathon running
   
 
- ●🌱 I’m currently studying core concepts of  data engineering ,  mathematical programming and mobile development
+ ●👯  I’m looking to collaborate on ground-breaking, jaw-dropping, billion-dollar projects that, I'm sure, no one else has thought of before.
   
 
- ●🔐I'm interested in  machine learning ,operations research , algorithms and back end development.
+ ●⚡ Fun fact: this document is a creation of a totally original and authentic idea and surely not a blatant copy of the first YouTube video titled "How to make your GitHub profile look good". Trust me, I checked. Twice.
   
-
- ●👯 I’m looking to collaborate on ground-breaking ,jaw-dropping ,billion-dollar projects that I'm sure no one else have thought of this before  
-  
-
- ●⚡ Fun fact: this document is a creation of a totally original and authentic idea and surely not a blatant copy of the first youtube video that I saw after typing "how to make your github profile look good"  
-  
-
 <br/>  
 
 
