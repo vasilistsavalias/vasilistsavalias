@@ -5,9 +5,9 @@
 
 ### 👋Hi there! I'm a passionate student in Applied Informatics, Computer Science, and Technology at the University of Macedonia. 
 
-🎓 Currently, I'm diving deep into the core concepts of data engineering, mathematical programming, operations research  and deep learning.
+●🎓 Currently, I'm diving deep into the core concepts of data engineering, mathematical programming, operations research  and deep learning.
 
-🎵 My interests include guitar playing, songwriting, fantasy storytelling, and marathon running
+●🎵 My interests include guitar playing, songwriting, fantasy storytelling, and marathon running
   
 
  ●👯  I’m looking to collaborate on ground-breaking, jaw-dropping, billion-dollar projects that, I'm sure, no one else has thought of before.
