@@ -13,7 +13,7 @@
  ●👯  I’m looking to collaborate on ground-breaking, jaw-dropping, billion-dollar projects that, I'm sure, no one else has thought of before.
   
 
- ●⚡ Fun fact: this document is a creation of a totally original and authentic idea and surely not a blatant copy of the first YouTube video titled "How to make your GitHub profile look good". Trust me, I checked. Twice.
+ ●⚡ Fun fact: this document is a creation of a -totally- original and authentic idea and surely not a blatant copy of the first YouTube video titled "How to make your GitHub profile look good". Trust me, I checked. Twice.
   
 <br/>  
 
