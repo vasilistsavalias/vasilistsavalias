@@ -3,7 +3,7 @@
 </div>  
   
 
-### 👋Hi there! I'm a passionate student in Applied Informatics, Computer Science, and Technology at the University of Macedonia. 
+### 👋 Hi there! I'm a graduate in Computer Science, currently pursuing a Master's degree in Artificial Intelligence and Data Analytics at the University of Macedonia.
 
 ●🎓 Currently, I'm diving deep into the core concepts of data engineering, mathematical programming, operations research  and deep learning.
 
