@@ -14,4 +14,4 @@ I’m pursuing an **MSc in AI & Data Analytics** at the University of Macedonia 
 > 
 **Interests:**  socializing, guitar, history, gaming, marathon running
 
-**Contact:**  · [🔗 LinkedIn](https://www.linkedin.com/in/vasilistsavalias/)
+
