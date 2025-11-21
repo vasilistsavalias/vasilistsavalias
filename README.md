@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47r19ws2l1urrtj0we044w3w0ssl3zihfiknj5e85c&rid=giphy.gif&ct=g" width="600" height="300" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY294ajNueHg5cHhtYmdsdzY0cGJ1Nmx0NjlpZ3FieDEyeWFqdDV3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/2hgmPc8q6Reh4h6PTG/giphy.gif" width="500" alt="GIF"/>
 </div>
 
 ### 👋 Hi — I’m Bill
