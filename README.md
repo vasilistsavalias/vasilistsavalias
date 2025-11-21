@@ -12,6 +12,6 @@ I’m pursuing an **MSc in AI & Data Analytics** at the University of Macedonia 
 
 > I like programming , but I'd much rather be chilling in the Shire and growing my garden.
 > 
-**Interests:**  socializing, guitar, history, gaming, marathon running
+**Interests:**  socializing, guitar, history, gaming, marathon running, movies , board games and carbonated water
 
 
