@@ -3,15 +3,14 @@
 </div>
 
 ### 👋 Hi — I’m Bill
-I’m pursuing an **MSc in AI & Data Analytics** at the University of Macedonia (BSc in Computer Science, same uni). I work on applied AI/ML in EU-funded research projects and build reproducible pipelines and models for real problems.
 
-- 🎓 **Current focus:** synthetic data generation · historical artifact restoration (master’s thesis) · ETL · CI/CD and MLOps pipelines ·full stack web development (render,vercel,tailwind,fast,next.js etc)
-- 🔬 **Research:** member of the university AI/ML research team , contributor on EU-funded projects (synthetic data, privacy-preserving methods, vision tasks)  
-- 🏫 **Education & outreach:** AI Education Consultant for Axion Schools in my hometown , designed a full AI curriculum for ages 10–15 (problem-based learning, AI ethics, Scratch → Teachable Machine → Python)  
-- 🤝 **Leadership:** volunteered as Coordinator, IEEE Student Branch . taught Python and mentored student projects
+I’m an **AI Researcher** and **MSc Candidate in AI & Data Analytics** at the University of Macedonia. I build applied ML systems for EU-funded research projects, moving from "it runs on my machine" to reproducible, deployed pipelines.
 
-> I like programming , but I'd much rather be chilling in the Shire and growing my garden.
-> 
-**Interests:**  socializing, guitar, history, gaming, marathon running, movies , board games and carbonated water
+- 🎓 **Current focus:** Synthetic Data Generation (GANs/TVAE) · Predictive Modeling · Web Mining · MLOps · Full Stack (Next.js, FastAPI, Tailwind).
+- 🔬 **Research:** Researcher at **Datalab (AUTH)** , currently engineering AI for **Skillscapes** (Greece 2.0) . Lead author of a GDM diagnosis framework (under review at ACM JDIQ).
+- 🏫 **Education & Outreach:** AI Education Consultant for **Axion Schools**. Designed a full 5-year AI curriculum for ages 10–15 (Ethics, Scratch → Teachable Machine → Python).
+- 🤝 **Leadership:** Former Coordinator for the **IEEE Student Branch**. Mentored 40+ students in Python and competitive programming.
 
+> I like programming, but I'd much rather be chilling in the Shire and growing my garden.
 
+**Interests:** Socializing, guitar, history, gaming, marathon running, movies, board games, and carbonated water.
