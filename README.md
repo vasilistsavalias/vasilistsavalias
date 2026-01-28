@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY294ajNueHg5cHhtYmdsdzY0cGJ1Nmx0NjlpZ3FieDEyeWFqdDV3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/2hgmPc8q6Reh4h6PTG/giphy.gif" width="500" alt="GIF"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHcyMHVlZGxxeXJ6N3Z4b3gwZ2Vvbmh1MHB0ejZwYTJzem95YjFobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" width="500" alt="GIF"/>
 </div>
 
-### 👋 Hi — I’m Bill
+### 👋 Hello there,
 
 I’m an **AI Researcher** and **MSc Candidate in AI & Data Analytics** at the University of Macedonia. I build applied ML systems for EU-funded research projects, moving from "it runs on my machine" to reproducible, deployed pipelines.
 
@@ -11,6 +11,6 @@ I’m an **AI Researcher** and **MSc Candidate in AI & Data Analytics** at the U
 - 🏫 **Education & Outreach:** AI Education Consultant for **Axion Schools**. Designed a full 5-year AI curriculum for ages 10–15 (Ethics, Scratch → Teachable Machine → Python).
 - 🤝 **Leadership:** Former Coordinator for the **IEEE Student Branch**. Mentored 40+ students in Python and competitive programming.
 
-> I like programming, but I'd much rather be chilling in the Shire and growing my garden.
+> I'd rather be chilling in the Shire growing my garden, but alas,we live in a society...
 
-**Interests:** Socializing, guitar, history, gaming, marathon running, movies, board games, and carbonated water.
+**Interests:** Socializing, guitar, history, gaming, movies, board games, and carbonated water.
