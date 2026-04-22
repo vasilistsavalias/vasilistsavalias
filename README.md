@@ -3,13 +3,11 @@
 </div>
 
 
-I’m an **AI Researcher** and **MSc Candidate in AI & Data Analytics** at the University of Macedonia. I build applied ML systems for EU-funded research projects, moving from "it runs on my machine" to reproducible, deployed pipelines.
+I’m an **AI Researcher** and **MSc Candidate in AI & Data Analytics** at the University of Macedonia. I build applied ML systems for EU-funded research projects. Or I could skip all this intro and just say I am a vibecoder with extra steps. 
 
-- 🎓 **Current focus:** Synthetic Data Generation (GANs/TVAE) · Predictive Modeling · Web Mining · MLOps · Full Stack (Next.js, FastAPI, Tailwind).
-- 🔬 **Research:** Researcher at **Datalab (AUTH)** , currently engineering AI for **Skillscapes** (Greece 2.0) . Lead author of a GDM diagnosis framework (under review at ACM JDIQ).
-- 🏫 **Education & Outreach:** AI Education Consultant for **Axion Schools**. Designed a full 5-year AI curriculum for ages 10–15 (Ethics, Scratch → Teachable Machine → Python).
-- 🤝 **Leadership:** Former Coordinator for the **IEEE Student Branch**. Mentored 40+ students in Python and competitive programming.
+- 🎓 **Current focus:** building AI systems across Agentic AI (LangGraph), chatbots, synthetic data generation (GANs, TVAE), Predictive Modeling, Diffusion Models (LaMa, MAT, Stable Diffusion), MLOps, Full Stack (Next.js, FastAPI, Tailwind, PostgreSQL, Render, Vercel, ...)
+- 🔬 **Research:** Researcher at Datalab (AUTH), currently engineering AI for Skillscapes (Greece 2.0). Lead author of a GDM diagnosis framework (under review at ACM JDIQ)
+- 🏫 **Education & Outreach:** AI Education Consultant for Axion Schools. Designed a 5-year AI curriculum (ages 10–15), covering Ethics, Scratch → Teachable Machine → Python
+- 🤝** Leadership:** Former Coordinator for the IEEE Student Branch. Mentored 40+ students in Python and competitive programming
 
-> I'd rather be chilling in the Shire growing my garden, but alas,we live in a society...
-
-**Interests:** Socializing, guitar, history, gaming, movies, board games, and carbonated water.
+Interests: Socializing, camping, singing, guitar, history, gaming, movies, board games, and beers. Cant forget the beers.
