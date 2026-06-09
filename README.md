@@ -6,7 +6,7 @@
 I’m an **AI Researcher** and **MSc Candidate in AI & Data Analytics** at the University of Macedonia. I build applied ML systems for EU-funded research projects. Or I could skip all this intro and just say I am a vibecoder with extra steps. 
 
 - 🎓 **Current focus:** building AI systems across Agentic AI (LangGraph), chatbots, synthetic data generation (GANs, TVAE), Predictive Modeling, Diffusion Models (LaMa, MAT, Stable Diffusion), MLOps, Full Stack (Next.js, FastAPI, Tailwind, PostgreSQL, Render, Vercel, ...)
-- 🔬 **Research:** Researcher at Datalab (AUTH), contributing to EU-funded and national research projects including Skillscapes, Innovade, SOcialMine. Lead author of a GDM diagnosis framework (PREGSAFE) (under review at ACM JDIQ)
+- 🔬 **Research:** Researcher at Datalab (AUTH), contributing to EU-funded and national research projects including Skillscapes, Innovade, SocialMine. Lead author of a GDM diagnosis framework (PREGSAFE) (under review at ACM JDIQ)
 - 🏫 **Education & Outreach:** AI Education Consultant for Axion Schools. Designed a 5-year AI curriculum (ages 10–15), covering Ethics, Scratch → Teachable Machine → Python
 - 🤝** Leadership:** Former Coordinator for the IEEE Student Branch. Mentored 40+ students in Python and competitive programming
 
